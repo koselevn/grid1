@@ -1,0 +1,10 @@
+.container{
+    grid-template-columns: 1fr;
+    grid-template-areas: 
+    'header'
+    'nav'
+    'main'
+    'sidebar'
+    'ads'
+    'footer';
+}
